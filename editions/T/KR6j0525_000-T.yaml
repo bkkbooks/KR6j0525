@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0525/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 施八方天儀則
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1294.xml
+    old_id: T21n1294
+hash: sha256:0fe57714d1e1f08b5d9c1f4bf7dd80ceb1a38fde469f5f31c8f7f5277edf7b1c

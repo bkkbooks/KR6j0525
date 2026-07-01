@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6j0525/v1
+canonical_location: https://kanripo.org/bkk/KR6j0525/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 施八方天儀則
+  identifiers:
+    alt_id:
+    - T21n1294
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1294.xml
+    old_id: T21n1294
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0525_000.yaml, hash: 'sha256:0fe57714d1e1f08b5d9c1f4bf7dd80ceb1a38fde469f5f31c8f7f5277edf7b1c'}
+  - {seq: 1, filename: KR6j0525_001.yaml, hash: 'sha256:680d6affd5a2be0b3e99e7762b816ee9759ac5047342b19fa9368a5670ad6b4f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0525_001.markers.yaml, hash: 'sha256:b2b5065c818290223d38b3a6a21780e51967d3cfb0d1e95819e9cbcd3ec57f18'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0525_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 894
+  label: 施八方天儀則一卷
+  type: juan
+  level: 1
+hash: sha256:17a6ca1ee7da2dc6f2ffb8ebe23f4852c594237c59e69e22a2589873a85efa7b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
