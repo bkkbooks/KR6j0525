@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0525_000.yaml, hash: 'sha256:0fe57714d1e1f08b5d9c1f4bf7dd80ceb1a38fde469f5f31c8f7f5277edf7b1c'}
-  - {seq: 1, filename: KR6j0525_001.yaml, hash: 'sha256:680d6affd5a2be0b3e99e7762b816ee9759ac5047342b19fa9368a5670ad6b4f'}
+  - {seq: 1, filename: KR6j0525_001.yaml, hash: 'sha256:4bf10f144a4100a81f4e38bd4be974c271bfd4719a3052f22840e1c0e043d41a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0525_001.markers.yaml, hash: 'sha256:b2b5065c818290223d38b3a6a21780e51967d3cfb0d1e95819e9cbcd3ec57f18'}
+  - {seq: 0, role: markers, filename: assets/KR6j0525_000.markers.yaml, hash: 'sha256:39512cb427f8ef977411219c80e5da4ad5078b73d5c7bc76ea50c4385c783ebd'}
+  - {seq: 1, role: markers, filename: assets/KR6j0525_001.markers.yaml, hash: 'sha256:13d4b51a5c18465401d0cdf732c1ce77608badfeb0c5f9cbd85e7474f2116d43'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 施八方天儀則一卷
   type: juan
   level: 1
-hash: sha256:17a6ca1ee7da2dc6f2ffb8ebe23f4852c594237c59e69e22a2589873a85efa7b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f540335f3b19ab7df27674e39dce61c957985a51f0b1306bba6bef1e5c365f3f
